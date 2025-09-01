@@ -7,21 +7,7 @@
 
 > A compact, end-to-end **SQL project** where I ingest, clean, and analyze a diabetes hospitalization dataset to answer real business questions about **readmissions, length of stay (LOS), medications, and utilization**. The repo includes reproducible SQL scripts, a clean view, and question-driven analytics.
 
----
 
-## 🧭 Table of Contents
-- [Overview](#-overview)
-- [Repository Structure](#-repository-structure)
-- [Dataset](#-dataset)
-- [Quick Start (PostgreSQL)](#-quick-start-postgresql)
-- [Key Business Questions](#-key-business-questions)
-- [Example Queries](#-example-queries)
-- [Results & Notes](#-results--notes)
-- [Troubleshooting](#-troubleshooting)
-- [Assets & How to Present](#-assets--how-to-present)
-- [License & Attribution](#-license--attribution)
-
----
 
 ## ✨ Overview
 This project demonstrates practical **data engineering + analytics** in SQL:
